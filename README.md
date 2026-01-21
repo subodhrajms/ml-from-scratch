@@ -1,2 +1,1 @@
-# ml-from-scratch
-My documented machine learning journey
+A python implementation of matrix multiplication. The file matrix.py contains the function matmul that does matrix multiplication. The file text_matrix.py contains the testing file.
